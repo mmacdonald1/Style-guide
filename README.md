@@ -59,7 +59,7 @@ Last you can choose 2 pop colors. These are for drawing user attention to specif
 
 Here the first and last colors are pop colors. The second and fourth are contrasting base colors. The third is neutral.
 
-Once again, choose colors that align with your apps Look & Feel!!
+Once again, choose colors that align with your apps Look & Feel!! Another reason to use contrasting color schemes is to accomodate visual impairments or disabilities. To read about this you can go [here](https://mashable.com/2011/04/20/design-for-visually-impaired/#E4uF_jeerPqE) or consider using [this Chrome tool](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd?hl=en).
 
 
 ## Universal Web Design Rules
