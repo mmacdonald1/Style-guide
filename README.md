@@ -1,5 +1,7 @@
 # Style-guide
 
+This style guide was written as a summary of my Visual Design coursework from Skillcrush. I wrote this quick guide to help new developers navigate the vast world of web design.
+
 ## REMEMBER
 
 Styling should be the last thing you do for your app!!!!! It is the polish at the end that will make your app more appealing to the general public.
